@@ -1,0 +1,36 @@
+{
+  "bookdatas": [
+  { "id": 1,
+    "title": "你的努力，要配得上你的野心",
+    "src": "./static/img/25336652-1_l_8.jpg"
+  },
+  { "id": 2,
+    "title": "在人生的更高处相见",
+    "src": "./static/img/25307603-1_l_10.jpg"
+  },
+    { "id": 3,
+      "title": "你不必活成别人喜欢的模样",
+      "src": "./static/img/25312764-1_l_2.jpg"
+    },
+    { "id": 4,
+      "title": "余生好贵，请勿浪费",
+      "src": "./static/img/25324685-1_l_8.jpg"
+    },
+    { "id": 5,
+      "title": "时间掌控，决定你的人生格局",
+      "src": "./static/img/25317210-1_l_1.jpg"
+    },
+    { "id": 6,
+      "title": "眼界",
+      "src": "./static/img/25326694-1_l_2 (1).jpg"
+    },
+    { "id": 7,
+      "title": "思维破局",
+      "src": "./static/img/25325219-1_l_4.jpg"
+    },
+    { "id": 8,
+      "title": "胜任未来",
+      "src": "./static/img/25346074-1_l_2.jpg"
+    }
+  ]
+}
